@@ -43,7 +43,7 @@ $ phantomjs pagesanity.js -w http://www.example.com/index.html
 $ phantomjs pagesanity.js --wait-for-timeout http://www.example.com/index.html
 ```
 
-### -t=# / --timeout=#
+### -t=&#35; / --timeout=&#35;
 
 -t can be used to specify the length of the timeout (how long PageSanity.js will wait for the page to load, or how long it will wait on the page if the -w option is specified.) The timeout is specified in miliseconds, and the default is 10000 miliseconds.
 
